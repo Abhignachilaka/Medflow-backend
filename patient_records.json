@@ -1,0 +1,50 @@
+[
+    {
+        "id": "P-001",
+        "name": "Sarah Johnson",
+        "age": 34,
+        "gender": "Female",
+        "avatar_initial": "S",
+        "avatar_color": "text-cyan-400"
+    },
+    {
+        "id": "P-002",
+        "name": "Michael Chen",
+        "age": 45,
+        "gender": "Male",
+        "avatar_initial": "M",
+        "avatar_color": "text-cyan-400"
+    },
+    {
+        "id": "P-003",
+        "name": "Emma Wilson",
+        "age": 28,
+        "gender": "Female",
+        "avatar_initial": "E",
+        "avatar_color": "text-cyan-400"
+    },
+    {
+        "id": "P-004",
+        "name": "Robert Fox",
+        "age": 62,
+        "gender": "Male",
+        "avatar_initial": "R",
+        "avatar_color": "text-cyan-400"
+    },
+    {
+        "id": "P-005",
+        "name": "Lisa Anderson",
+        "age": 51,
+        "gender": "Female",
+        "avatar_initial": "L",
+        "avatar_color": "text-cyan-400"
+    },
+    {
+        "id": "P-006",
+        "name": "James Wilson",
+        "age": 39,
+        "gender": "Male",
+        "avatar_initial": "J",
+        "avatar_color": "text-cyan-400"
+    }
+]

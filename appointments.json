@@ -1,0 +1,38 @@
+[
+    {
+        "id": "appt-1",
+        "doctor_id": "doctor-456",
+        "patient_id": "patient-1",
+        "patient_name": "Sarah Johnson",
+        "date": "2026-01-08",
+        "time": "09:00 AM",
+        "type": "Video Consultation",
+        "status": "Confirmed",
+        "avatar_initial": "S",
+        "avatar_bg": "bg-slate-700"
+    },
+    {
+        "id": "appt-2",
+        "doctor_id": "doctor-456",
+        "patient_id": "patient-2",
+        "patient_name": "Michael Chen",
+        "date": "2026-01-08",
+        "time": "10:30 AM",
+        "type": "In-person Consultation",
+        "status": "Pending",
+        "avatar_initial": "M",
+        "avatar_bg": "bg-slate-700"
+    },
+    {
+        "id": "appt-3",
+        "doctor_id": "doctor-456",
+        "patient_id": "patient-3",
+        "patient_name": "Emma Wilson",
+        "date": "2026-01-08",
+        "time": "11:15 AM",
+        "type": "Chat Consultation",
+        "status": "Confirmed",
+        "avatar_initial": "E",
+        "avatar_bg": "bg-slate-700"
+    }
+]
